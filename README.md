@@ -1,2 +1,2 @@
 # SoundToy_CatandPeggy
- an application that creates a meaningful relationship between sound and images.
+ An application to create a meaningful relationship between sound and images.
