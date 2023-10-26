@@ -311,20 +311,20 @@
     <Reference Include="Unity.VisualScripting.IonicZip">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
-    <Reference Include="unityplastic">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+    <Reference Include="PackageManagerAssembly">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Assets/UnityTechnologies/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="unityplastic">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/PackageCache/com.unity.collab-proxy@2.0.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
-    </Reference>
-    <Reference Include="PackageManagerAssembly">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Assets/UnityTechnologies/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
@@ -716,12 +716,6 @@
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Minis.Editor">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Minis.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -733,9 +727,6 @@
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
@@ -749,17 +740,17 @@
     <Reference Include="Unity.VisualScripting.State.Editor">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Minis">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Minis.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Minis">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Minis.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+    <Reference Include="Unity.Postprocessing.Editor">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
@@ -773,17 +764,14 @@
     <Reference Include="Unity.PlasticSCM.Editor">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="RtMidi.Runtime">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/RtMidi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.State">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+    <Reference Include="Unity.VisualScripting.Flow">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
@@ -791,11 +779,23 @@
     <Reference Include="Unity.EditorCoroutines.Editor">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+    <Reference Include="Minis.Editor">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Minis.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
         <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State">
+        <HintPath>/Users/Peggy/Documents/60-418/Fall 2023 No More Video Games/SoundToy_CatandPeggy/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
