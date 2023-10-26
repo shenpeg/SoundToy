@@ -44,3 +44,11 @@ The following packages were updated:
   com.unity.collab-proxy from version 1.13.5 to 2.0.1
   com.unity.timeline from version 1.6.2 to 1.6.4
   com.unity.visualscripting from version 1.7.6 to 1.8.0
+
+=== Wed Oct 25 23:44:37 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@3.2.2
