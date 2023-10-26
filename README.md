@@ -1,4 +1,6 @@
 # SoundToy: The Autogenics Channel
-The Autogenics Channel is an interactive soundtoy made for a live audiovisual performance to create a meaningful relationship between sound and images.
+The Autogenics Channel is an interactive soundtoy visualizing music from an American-Dutch duo, called The Books, for a live audiovisual performance of their song "Group Autogenics I". Autogenics means "self-generating," and refers to relaxation techniques used to train the mind to calm the body. However, it also is classified as a self-hypnotic technique. Group Autogenics, therefore, evokes connotations of group hypnosis-- which may be both relaxing (think of an empowering meditation session), or ominously dystopian (think of something like the ballet scenes in Don't Worry Darling (2022) or other dystopian-like plots). 
+
+In the song, The Books uses obscure speeches and experimental samples to re-contextualize sound into a new and distinctive musical form. In the same light, we use found footage, vintage advertisements, personal recordings, and other video imagery to piece together and interpret the song amidst new visual language. Some of our imagery is more obvious (a clip of orange juice appears when the lyrics mention "Orange colored liquid") while others are more indeterminate and obscure, similar to the mysterious nature of the audio.
 
 This repository is the Unity project application for collaboration and versioning.
