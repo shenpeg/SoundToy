@@ -53,7 +53,7 @@ public class VideoMaterialToggle : MonoBehaviour
             // Add the VideoPlayer component, set the video clip, and play it
             videoPlayers[objectIndex] = targetObjects[objectIndex].AddComponent<VideoPlayer>();
             videoPlayers[objectIndex].enabled = true;
-            videoPlayers[objectIndex].url = "Assets/YourVideoPath" + objectIndex + ".mp4"; // Update the path for each object
+            videoPlayers[objectIndex].url = "Assets/Videos/LaundryCleanseClip" + ".mov"; // Update the path for each object
             videoPlayers[objectIndex].targetMaterialRenderer = objectRenderers[objectIndex];
             videoPlayers[objectIndex].targetMaterialProperty = "_MainTex";
             videoPlayers[objectIndex].Play();
