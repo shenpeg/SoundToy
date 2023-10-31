@@ -358,6 +358,7 @@
 "Assets/Scripts/RainController.cs"
 "Assets/Scripts/TVAutoPlayer.cs"
 "Assets/Scripts/TVController.cs"
+"Assets/Scripts/VideoMaterialToggle.cs"
 "Assets/UnityTechnologies/EffectExamples/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 

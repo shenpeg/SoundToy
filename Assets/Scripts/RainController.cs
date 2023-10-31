@@ -2,8 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-using UnityEngine;
-
 public class RainController : MonoBehaviour
 {
     public GameObject rainEffectPrefab;  // Reference to your "RainEffect" prefab
@@ -31,7 +29,7 @@ public class RainController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.R))
         {
             // Toggle the rain state and start/stop the fading
             isRaining = !isRaining;

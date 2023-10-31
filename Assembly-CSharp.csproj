@@ -43,6 +43,7 @@
      <Compile Include="Assets/Scripts/CameraZoom.cs" />
      <Compile Include="Assets/UnityTechnologies/EffectExamples/TutorialInfo/Scripts/Readme.cs" />
      <Compile Include="Assets/Scripts/RainController.cs" />
+     <Compile Include="Assets/Scripts/VideoMaterialToggle.cs" />
      <None Include="Assets/3DModels/OG TV Models/_Television_set/SpecGrayscaleSF.shader" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
