@@ -2658,7 +2658,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9a6a043a4cc724081955c9e6030e7c24, type: 3}
       propertyPath: m_Name
-      value: TV90_Fixed7
+      value: TV90_Fixed
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a6a043a4cc724081955c9e6030e7c24, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5024548797447280044, guid: 9a6a043a4cc724081955c9e6030e7c24, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3982,7 +3986,7 @@ PrefabInstance:
     - target: {fileID: 2300002, guid: 9b68a2aa6e4d98a4d98ab316a6a8df44, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: a53794009cf034a50bf201c6e01c3fea, type: 2}
+      objectReference: {fileID: 2100000, guid: 8d446af818bb64162b2d81a9ddc8ceb8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b68a2aa6e4d98a4d98ab316a6a8df44, type: 3}
 --- !u!1 &2052242450 stripped
